@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+}
+img{
+    width: 250px;
+    height:100px
+}
+nav{
+    font-size: 40px;
+    font-style: unset;
+}
+#kal{
+    background-color: rgb(254, 216, 216);
+    align-items: center;
+    height: 150px;
+}
+a{
+    text-decoration: none;
+    color: red;
+    border: 5px dashed;
+    position: relative;
+}
+#project{
+    text-align: center ;
+    height: 200px;
+    width: 100%;
+    color: rgb(186, 142, 142);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTecLcuOga1Dwo-ehG51ZgYuhIGgQ-QU0UtWQ&usqp=CAU") ;
+    font-size: 25px;
+    position: relative;
+}
+iframe{
+    height: 250px;
+    width: 1000px;
+    align-self: center;
+}
+p{
+    text-align: center;
+    padding: 25px ;
+    font-size: 25px ;
+    background-color: rgb(227, 133, 133);
+    color: white;
+    position: static;
+}
+#img01,#img02{
+    height: 250px;
+    width: fit-content;
+}
+#img1{
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    background-color: darkolivegreen;
+    color: aquamarine;
+}
+#img02{
+    position: absolute;
+}
