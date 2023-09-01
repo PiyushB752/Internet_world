@@ -1,14 +1,14 @@
 *{
     padding: 0px;
     margin: 0px;
-    position: absolute;
+     
 }
 img{
     width: 250px;
     height:100px
 }
 nav{
-    font-size: 40px;
+    font-size: 40px;    
     font-style: unset;
 }
 #kal{
@@ -20,7 +20,7 @@ a{
     text-decoration: none;
     color: red;
     border: 5px dashed;
-    position: relative;
+    position: relative; 
 }
 #project{
     text-align: center ;
@@ -29,7 +29,7 @@ a{
     color: rgb(186, 142, 142);
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTecLcuOga1Dwo-ehG51ZgYuhIGgQ-QU0UtWQ&usqp=CAU") ;
     font-size: 25px;
-    position: relative;
+    position: relative; 
 }
 iframe{
     height: 250px;
@@ -50,11 +50,10 @@ p{
 }
 #img1{
     font-size: 30px;
-    text-align: center;
     align-items: center;
     background-color: darkolivegreen;
     color: aquamarine;
 }
 #img02{
-    position: absolute;
+     position: absolute; 
 }
